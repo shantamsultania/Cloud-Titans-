@@ -26,6 +26,13 @@ By Incubate IND and Digital Ocean.
 
 8) Projects (view and post) (to do)
 
+# Progress
+
+1) have made a Quiz in form of true of flase with score board and many more.(27-05-2020)
+
+2) next progress to do make a Rank Score board and add animation to the game.
+
+3) make and integrate Login page 
 
 # Developing Environment 
 
