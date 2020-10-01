@@ -8,7 +8,7 @@ By Incubate IND and Digital Ocean.
 
 ## Problem Statement 
 
-### The ultimate Placement Preparation Portal
+### The Ultimate Placement Preparation Portal
 
 1) Registration of Users (to do).
 
